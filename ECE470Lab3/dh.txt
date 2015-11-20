@@ -1,0 +1,32 @@
+DOF=5
+vghkvghkc
+joint1 = revolute
+a1 =0
+alpha= Pi/2
+d1 = 26
+theta1 = q1
+
+joint2 = revolute
+a2=23
+alpha2 =0
+d2 =0
+theta2 = q2
+
+joint3 = revolute
+a3=23
+alpha3 =0
+
+d3 =0
+theta3 = q3
+joint4 = revolute
+a4=1
+alpha4 = Pi/2
+
+d4 = 0
+theta4 = q4
+joint5 = revolute
+a5=0
+alpha5=0
+
+d5 =16
+theta5 = q5

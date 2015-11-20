@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "rhinocam", "visionlabs.vcxproj", "{29000816-9AEA-3C0E-8ED7-BF98DFA7AE88}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29000816-9AEA-3C0E-8ED7-BF98DFA7AE88}.Debug|Win32.ActiveCfg = Debug|Win32
+		{29000816-9AEA-3C0E-8ED7-BF98DFA7AE88}.Debug|Win32.Build.0 = Debug|Win32
+		{29000816-9AEA-3C0E-8ED7-BF98DFA7AE88}.Release|Win32.ActiveCfg = Release|Win32
+		{29000816-9AEA-3C0E-8ED7-BF98DFA7AE88}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
